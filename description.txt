@@ -1,0 +1,11 @@
+A simple mod that allows mana potions to be placed in ammo slots.
+
+join my discord server for bug reports & suggestions.
+https://discord.gg/MKcjBKwBVu
+
+Built for Terraria 1.4.4.9
+
+--Changelog--
+
+v2023.8.3.1 - ported mod to 1.4.4
+v2023.8.3.2 - updated icon and cleaned up code
